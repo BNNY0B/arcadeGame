@@ -6,7 +6,7 @@ move_and_collide(_hor*move_speed,_ver*move_speed,tilemap,undefined, undefined, u
 
 if (_hor!= 0 or _ver!=0)
 {
-  if (_ver>0) sprite_index = spr_springbonnie_walk_down;  
+  if (_ver>0) sprite_index = spr_springbonnie_walk_down; 
   else if (_ver<0) sprite_index = spr_springbonnie_walk_up;
   else if (_hor<0) sprite_index = spr_springbonnie_walk_left;
   else if (_hor>0) sprite_index = spr_springbonnie_walk_right;

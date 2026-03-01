@@ -30,6 +30,7 @@
     {"id":{"name":"pizza_ground","path":"objects/pizza_ground/pizza_ground.yy",},},
     {"id":{"name":"pizza","path":"objects/pizza/pizza.yy",},},
     {"id":{"name":"springbonnie","path":"objects/springbonnie/springbonnie.yy",},},
+    {"id":{"name":"testobject","path":"objects/testobject/testobject.yy",},},
     {"id":{"name":"timer_manager","path":"objects/timer_manager/timer_manager.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"child_angry","path":"sprites/child_angry/child_angry.yy",},},
